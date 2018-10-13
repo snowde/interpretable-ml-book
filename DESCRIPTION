@@ -1,0 +1,40 @@
+Package: iml.book
+Title: Interpretable machine learning
+Version: 0.0.1
+Depends:
+  knitr
+Imports:
+  bookdown,
+  ggplot2,
+  mlbench,
+  dplyr,
+  tidyr,
+  data.table,
+  mlr,
+  rpart,
+  party,
+  partykit,
+  randomForest,
+  gridExtra,
+  grid,
+  jpeg,
+  caret,
+  e1071,
+  tm,
+  svglite,
+  mmpf,
+  numDeriv,
+  DT,
+  xgboost,
+  lubridate,
+  pre,
+  shiny,
+  roxygen2,
+  memoise, 
+  gridExtra,
+  OneR, 
+  RWeka,
+  sbrl,
+  iml
+Remotes: snowde/interpretable-ml-book
+
